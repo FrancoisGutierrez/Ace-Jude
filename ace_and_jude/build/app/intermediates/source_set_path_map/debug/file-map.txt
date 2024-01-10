@@ -1,0 +1,16 @@
+com.example.ace_and_jude.app-jetified-window-1.0.0-beta04-0 C:\Users\franc\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.ace_and_jude.app-jetified-annotation-experimental-1.1.0-1 C:\Users\franc\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.ace_and_jude.app-core-1.6.0-2 C:\Users\franc\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.ace_and_jude.app-jetified-window-java-1.0.0-beta04-3 C:\Users\franc\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.ace_and_jude.app-debug-4 C:\Users\franc\AndroidStudioProjects\ace_and_jude\android\app\src\debug\res
+com.example.ace_and_jude.app-main-5 C:\Users\franc\AndroidStudioProjects\ace_and_jude\android\app\src\main\res
+com.example.ace_and_jude.app-pngs-6 C:\Users\franc\AndroidStudioProjects\ace_and_jude\build\app\generated\res\pngs\debug
+com.example.ace_and_jude.app-resValues-7 C:\Users\franc\AndroidStudioProjects\ace_and_jude\build\app\generated\res\resValues\debug
+com.example.ace_and_jude.app-rs-8 C:\Users\franc\AndroidStudioProjects\ace_and_jude\build\app\generated\res\rs\debug
+com.example.ace_and_jude.app-mergeDebugResources-9 C:\Users\franc\AndroidStudioProjects\ace_and_jude\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.ace_and_jude.app-mergeDebugResources-10 C:\Users\franc\AndroidStudioProjects\ace_and_jude\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.ace_and_jude.app-merged_res-11 C:\Users\franc\AndroidStudioProjects\ace_and_jude\build\app\intermediates\merged_res\debug
+com.example.ace_and_jude.app-packaged_res-12 C:\Users\franc\AndroidStudioProjects\ace_and_jude\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.example.ace_and_jude.app-packaged_res-13 C:\Users\franc\AndroidStudioProjects\ace_and_jude\build\path_provider_android\intermediates\packaged_res\debug
+com.example.ace_and_jude.app-packaged_res-14 C:\Users\franc\AndroidStudioProjects\ace_and_jude\build\rive_common\intermediates\packaged_res\debug
+com.example.ace_and_jude.app-packaged_res-15 C:\Users\franc\AndroidStudioProjects\ace_and_jude\build\sqflite\intermediates\packaged_res\debug
